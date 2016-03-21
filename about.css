@@ -9,6 +9,10 @@ body {
   font-size: 14px;
 }
 
+span.red {
+  color: red;
+}
+
 header {
   background-image: url("bg.jpg");
   background-position: center center;
